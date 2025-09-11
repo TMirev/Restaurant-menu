@@ -1,4 +1,4 @@
-# WebProject
-Web Project / Restaurant Menu
+# Python / Restaurant menu
+Python / Restaurant Menu
 
 
